@@ -1,1 +1,1 @@
-# rel-attn-pytorch
+This is an implementation of ["Relational Attention: Generalizing Transformers for Graph-Structured Tasks"](https://arxiv.org/abs/2210.05062) in PyTorch that is, for the most part, equivalent to the [original Jax implementation](https://github.com/CameronDiao/relational-transformer/blob/master/clrs/_src/processors.py).
